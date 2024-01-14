@@ -1,1 +1,0 @@
-print('audios/test.py')
